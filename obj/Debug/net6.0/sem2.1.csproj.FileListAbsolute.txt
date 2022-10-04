@@ -1,0 +1,16 @@
+D:\Visual studio\sem2.1\bin\Debug\net6.0\sem2.1.exe
+D:\Visual studio\sem2.1\bin\Debug\net6.0\sem2.1.deps.json
+D:\Visual studio\sem2.1\bin\Debug\net6.0\sem2.1.runtimeconfig.json
+D:\Visual studio\sem2.1\bin\Debug\net6.0\sem2.1.dll
+D:\Visual studio\sem2.1\bin\Debug\net6.0\ref\sem2.1.dll
+D:\Visual studio\sem2.1\bin\Debug\net6.0\sem2.1.pdb
+D:\Visual studio\sem2.1\obj\Debug\net6.0\sem2.1.GlobalUsings.g.cs
+D:\Visual studio\sem2.1\obj\Debug\net6.0\sem2.1.csproj.AssemblyReference.cache
+D:\Visual studio\sem2.1\obj\Debug\net6.0\sem2.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio\sem2.1\obj\Debug\net6.0\sem2.1.AssemblyInfoInputs.cache
+D:\Visual studio\sem2.1\obj\Debug\net6.0\sem2.1.AssemblyInfo.cs
+D:\Visual studio\sem2.1\obj\Debug\net6.0\sem2.1.csproj.CoreCompileInputs.cache
+D:\Visual studio\sem2.1\obj\Debug\net6.0\sem2.1.dll
+D:\Visual studio\sem2.1\obj\Debug\net6.0\ref\sem2.1.dll
+D:\Visual studio\sem2.1\obj\Debug\net6.0\sem2.1.pdb
+D:\Visual studio\sem2.1\obj\Debug\net6.0\sem2.1.genruntimeconfig.cache
